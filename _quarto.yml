@@ -1,19 +1,30 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "pagina-personal"
   navbar:
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Presentación"
+        href: presentacion.qmd
+      - text: "Proyectos"
+        href: proyectos.qmd
+      - text: "Portafolio"
+        href: portafolio.qmd
+      - text: "Conctacto"
+        href: contacto.qmd
+
+
+# bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
+    theme: 
+      light: flatly
+      dark: cyborg
+      
 
 
