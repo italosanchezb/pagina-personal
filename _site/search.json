@@ -9,8 +9,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "pagina-personal",
+    "title": "",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hola. Soy José Ítalo Sánchez Bermúdez maestro en Ciencias Matemáticas, actualmente estudio el doctorado en Ciencias Matemáticas en la Universidad de Sonora."
+  },
+  {
+    "objectID": "index.html#presentación",
+    "href": "index.html#presentación",
+    "title": "",
+    "section": "Presentación",
+    "text": "Presentación\n\nJosé Ítalo Sánchez Bermúdez\n\nCursando el Doctorado en Ciencias Matemáticas por la Universidad de Sonora.\njoseitalosanchezb@gmail.com"
+  },
+  {
+    "objectID": "index.html#proyectos",
+    "href": "index.html#proyectos",
+    "title": "",
+    "section": "Proyectos",
+    "text": "Proyectos"
+  },
+  {
+    "objectID": "index.html#portafolio",
+    "href": "index.html#portafolio",
+    "title": "",
+    "section": "Portafolio",
+    "text": "Portafolio"
+  },
+  {
+    "objectID": "index.html#divulgación",
+    "href": "index.html#divulgación",
+    "title": "",
+    "section": "Divulgación",
+    "text": "Divulgación"
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "",
+    "section": "",
+    "text": "Notas de probabilidad\n\n\n\nPágina del curso\nhttps://italosanchezb.github.io/Curso-Overleaf/\nMaterial descargable\n\n\n\nVisita la biblioteca de libros\nBiblioteca\n\n\n\nLicenciatura\nDesigualdad de Jensen y sus aplicaciones\nLa Desigualdad de Chebyshev en espacios de Banach y espacios de Hilbert\n\n\n\nExámenes generales\nÁlgebra Lineal\nAnálisis Matemático\nEcuaciones Diferenciales\nModelos Estocásticos\nProbabilidad"
+  },
+  {
+    "objectID": "proyectos.html#proyectos",
+    "href": "proyectos.html#proyectos",
+    "title": "",
+    "section": "",
+    "text": "Notas de probabilidad\n\n\n\nPágina del curso\nhttps://italosanchezb.github.io/Curso-Overleaf/\nMaterial descargable\n\n\n\nVisita la biblioteca de libros\nBiblioteca\n\n\n\nLicenciatura\nDesigualdad de Jensen y sus aplicaciones\nLa Desigualdad de Chebyshev en espacios de Banach y espacios de Hilbert\n\n\n\nExámenes generales\nÁlgebra Lineal\nAnálisis Matemático\nEcuaciones Diferenciales\nModelos Estocásticos\nProbabilidad"
   }
 ]

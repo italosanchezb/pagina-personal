@@ -1,0 +1,42 @@
+## Proyectos
+
+### Notas
+
+[Notas de probabilidad]()
+
+### Curso Overleaf
+
+Página del curso
+
+<https://italosanchezb.github.io/Curso-Overleaf/>
+
+Material descargable
+
+
+### Biblioteca
+
+Visita la biblioteca de libros
+
+[Biblioteca](https://1drv.ms/f/c/cd43e44ad57a2733/EjMnetVK5EMggM27RgAAAAABVWyyZQib2R6iTxDuSyOeTQ?e=eye4JP)
+
+### Tesis
+
+**Licenciatura**
+
+[Desigualdad de Jensen y sus aplicaciones]()
+
+[La Desigualdad de Chebyshev en espacios de Banach y espacios de Hilbert]()
+
+### Material posgrado
+
+Exámenes generales y material.
+
+[Álgebra Lineal](https://1drv.ms/f/c/cd43e44ad57a2733/EjMnetVK5EMggM22awQAAAABxUMGotiNecv5yhqoP-9i7g?e=Bu6haO)
+
+[Análisis Matemático](https://1drv.ms/f/c/cd43e44ad57a2733/EjMnetVK5EMggM3qcAQAAAABYZ6tCQcu6eNccwrU0DdTOA?e=ADlHzx)
+
+[Ecuaciones Diferenciales](https://1drv.ms/f/c/cd43e44ad57a2733/EjMnetVK5EMggM2qxgAAAAABo8sVTUCRqPTYckeDGvelgQ?e=u7YE6i)
+
+[Modelos Estocásticos](https://1drv.ms/f/c/cd43e44ad57a2733/EjMnetVK5EMggM1qXQAAAAABzzCTdiEymck87hJkpb4XSw?e=AJOuIO)
+
+[Probabilidad](https://1drv.ms/f/c/cd43e44ad57a2733/EjMnetVK5EMggM2NzAAAAAABy0uesUr2xDAhK0Wp8B25TQ?e=YUBYeg)

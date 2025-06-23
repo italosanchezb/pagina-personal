@@ -1,7 +1,21 @@
 ---
-title: "pagina-personal"
+# title: "pagina-personal"
 ---
 
-This is a Quarto website.
+Hola. Soy José Ítalo Sánchez Bermúdez maestro en Ciencias Matemáticas, actualmente estudio el doctorado en Ciencias Matemáticas en la Universidad de Sonora.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Presentación
+MC. José Ítalo Sánchez Bermúdez
+
+Cursando el Doctorado en Ciencias Matemáticas por la Universidad de Sonora.
+
+joseitalosanchezb@gmail.com
+
+## Proyectos
+
+
+
+## Portafolio
+
+## Divulgación
+
