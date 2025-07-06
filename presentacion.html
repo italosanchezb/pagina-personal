@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -102,7 +131,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contacto.html"> 
-<span class="menu-text">Conctacto</span></a>
+<span class="menu-text">Contacto</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -123,8 +152,64 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<section id="presentación" class="level2">
+<h2 class="anchored" data-anchor-id="presentación">Presentación</h2>
+<p>Hola, mi nombre José Ítalo Sánchez Bermúdez originario de Hermosillo, Sonora, México. Soy Maestro en Ciencias Matemáticas por la Universidad de Sonora. Estoy en mi primer semestre del programa del Doctorado en Ciencias Matemáticas de la Universidad de Sonora. Mi área de trabajo actual es la Teoría de Control.</p>
+<p>Me gusta el fútbol, el cine, la divulgación de la ciencia, la filosofía y la historia.</p>
+<section id="educación" class="level3">
+<h3 class="anchored" data-anchor-id="educación">Educación</h3>
+<ul>
+<li>Licenciatura en Matemáticas por la Universidad de Sonora (2019 - 2023)</li>
+<li>Maestría en Ciencias Matemáticas por la Universidad de Sonora (2019 - 2025)</li>
+<li>Doctorado en Ciencias Matemáticas por la Universidad de Sonora (2025 - actualmente)</li>
+</ul>
+</section>
+<section id="experiencia-profesional" class="level3">
+<h3 class="anchored" data-anchor-id="experiencia-profesional">Experiencia profesional</h3>
+<p>Mi <a href="https://1drv.ms/b/c/cd43e44ad57a2733/EUb26yzt2ktJj_BVcoh3PRUBrQZtKWzJ3fDTe3UfJXFmGA?e=zEt1om">CV</a>.</p>
+</section>
+<section id="actividades" class="level3">
+<h3 class="anchored" data-anchor-id="actividades">Actividades</h3>
+<ul>
+<li>XX Seminario de Estudiantes de Matemáticas (2021).</li>
+</ul>
+<p>Presentación de la ponencia “El primer teorema de incompletitud de Gödel”.</p>
+<ul>
+<li>Día de las Matemáticas (2022).</li>
+</ul>
+<p>Organizador y presentación de la ponencia “Curiosidades curiosas de <span class="math inline">\(\pi\)</span>”.</p>
+<ul>
+<li>55 Congreso Nacional Sociedad Matemática Mexicana (2022).</li>
+</ul>
+<p>Presentación del cartel “Equivalencias entre definiciones de números <span class="math inline">\(p-\)</span> ádicos”.</p>
+<ul>
+<li><p>Festival de Otoño (2023).</p></li>
+<li><p>Festival de Primavera (2024).</p></li>
+<li><p>57 Congreso Nacional Sociedad Matemática Mexicana (2024).</p></li>
+</ul>
+<p>Presentación del cartel “La Desigualdad de Jensen y sus aplicaciones”.</p>
+<ul>
+<li>XXXIV Semana Nacional de Investigación y Docencia en Matemáticas (2025).</li>
+</ul>
+<p>Presentación de la ponencia “La Desigualdad de Chebyshev en espacios de Banach y espacios de Hilbert”</p>
+<ul>
+<li>Verano de investigación en CINVESTAV (2025).</li>
+</ul>
+</section>
+<section id="trabajos" class="level3">
+<h3 class="anchored" data-anchor-id="trabajos">Trabajos</h3>
+<ul>
+<li>Tesis de licenciatura <a href="https://lic.mat.uson.mx/tesis/Jose_Sanchez_Bermudez.pdf">“La Desigualdad de Jensen y sus aplicaciones”</a></li>
+<li>Tesis de maestría “La Desigualdad de Chebyshev en espacios de Banach y espacios de Hilbert”</li>
+</ul>
+</section>
+<section id="contacto" class="level3">
+<h3 class="anchored" data-anchor-id="contacto">Contacto</h3>
+<p>Correo: joseitalosanchezbermudez@gmail.com</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
